@@ -97,6 +97,7 @@ h2{
 h3{
       font-size: 22px;
 }
+/*About section*/
 .about-me img{
       width: 60%;
       margin-left: 156px;
@@ -110,3 +111,19 @@ h3{
       font-size: 33px;
     
 }
+/*Community Section*/
+.community-pic img{
+      width: 60%;
+     padding-left: 90px;
+      margin-top: 90px;
+}
+.community{
+      margin-left: 156px;
+      margin-top: 90px;
+}
+
+.community h3{
+     font-size: 33px;
+}
+
+/*project section*/
