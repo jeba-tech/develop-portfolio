@@ -97,3 +97,16 @@ h2{
 h3{
       font-size: 22px;
 }
+.about-me img{
+      width: 60%;
+      margin-left: 156px;
+      margin-top: 90px;
+}
+.know-more{
+      padding-right: 200px;
+      margin-top: 90px;
+}
+.know-more h1{
+      font-size: 33px;
+    
+}
