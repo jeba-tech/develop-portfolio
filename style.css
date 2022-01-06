@@ -1,3 +1,4 @@
+/* Home section*/
 body{
       font-family: 'Nunito', sans-serif;
 }
@@ -32,7 +33,7 @@ h1{
       
 }
 p{
-      font-size: 18px;
+      font-size: 17px;
       padding-bottom: 15px;
 }
 .hire{
@@ -50,4 +51,49 @@ p{
 
 span{
       color: rgb(74, 16, 141);
+}
+
+/* Mission section*/
+
+h2{
+      font-size: 40px;
+      text-align: center;
+}
+
+.Mission-box{
+      width: 30%;
+      margin-left: 10%;
+     
+      padding: 30px;
+      background-color:#a3f6ff;
+      border-radius: 20px;
+}
+.Mission-box img{
+      width: 37%;
+}
+.Vission-box{
+      width: 30%;
+      margin-left: 1.5%;
+     
+      padding: 30px;
+      background-color:#ffb6b6;
+      border-radius: 20px;
+}
+.Vission-box img{
+      width: 37%;
+}
+.Goals-box{
+      width: 30%;
+      margin-left: 1.5%;
+      margin-right: 10%;
+      padding: 30px;
+      background-color:#FFF4D6;
+      border-radius: 20px;
+      
+}
+.Goals-box img{
+      width: 37%;
+}
+h3{
+      font-size: 22px;
 }
