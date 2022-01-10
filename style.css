@@ -6,28 +6,32 @@ body{
 .Person{
       background-image: url(images/shapes/shape-1.png);
       background-repeat: no-repeat;
-     background-size: 7%;
+     background-size: 15%;
      background-position: right;
-     
+     margin-right: 20px;
+    
      
 }
+
 .flex-style{
       display: flex;
 }
 .half-width{
       width: 30%;
       margin-left: 156px;
+     
       
 }
 .header{
       margin-top: 140px;
       border-left: 5px solid rgb(190, 27, 90);
       margin-left: 156px;
+      border-radius: 2px;
 }
 .header h1{
       margin-left: 10px;
-      
-      
+      padding-top: 40px;
+      line-height: 5px;
      
 }
 .half-width img{
@@ -39,12 +43,13 @@ body{
 }
 h1{
       font-size: 50px;
-      
+      line-height: 20px;
+     
       
 }
 p{
       font-size: 17px;
-      padding-bottom: 15px;
+      padding-bottom: 35px;
 }
 .hire{
       text-decoration: none;
@@ -83,7 +88,7 @@ h2{
      
       padding: 30px;
       background-color:#b7f9ff;
-      border-radius: 20px;
+      border-radius: 40px;
 }
 .Mission-box img{
       width: 37%;
@@ -94,7 +99,7 @@ h2{
      
       padding: 30px;
       background-color:#ffc5c5;
-      border-radius: 20px;
+      border-radius: 40px;
 }
 .Vission-box img{
       width: 37%;
@@ -105,7 +110,7 @@ h2{
       margin-right: 10%;
       padding: 30px;
       background-color:#FFF4D6;
-      border-radius: 20px;
+      border-radius: 40px;
       
 }
 .Goals-box img{
@@ -118,17 +123,19 @@ h3{
 .about{
       background-image: url(images/shapes/shape-5.png);
       background-repeat: no-repeat;
-     background-size: 10%;
+     background-size: 12%;
      background-position-x: right;
+     margin-top: 50px;
+     margin-right: 20px;
 }
 .about-me img{
-      width: 60%;
+      width: 55%;
       margin-left: 156px;
-      margin-top: 120px;
+      margin-top: 100px;
 }
 .know-more{
-      padding-right: 200px;
-      margin-top: 120px;
+      padding-right: 190px;
+      margin-top: 220px;
 }
 .know-more h1{
       font-size: 33px;
@@ -141,11 +148,19 @@ h3{
 .community-pic img{
       width: 60%;
      padding-left: 90px;
-      margin-top: 90px;
+      margin-top: 130px;
+}
+.commu-back{
+      background-image: url(images/shapes/shape-6.png);
+      background-repeat: no-repeat;
+     background-size: 33%;
+     background-position-x: right;
+     
+     
 }
 .community{
       margin-left: 156px;
-      margin-top: 90px;
+      margin-top: 120px;
 }
 
 .community h3{
@@ -153,6 +168,7 @@ h3{
      font-family: 'Lobster', cursive;
      font-family: 'Nunito', sans-serif;
      font-family: 'Poppins', sans-serif;
+     line-height: 20px;
 }
 
 
@@ -167,9 +183,9 @@ h3{
 
 }
 .projects{
-    margin-top: 70px;
+    margin-top: 120px;
       text-align: center;
-      margin-bottom: 50px;
+      margin-bottom: 80px;
       
 }
 .Coffe-shop{
